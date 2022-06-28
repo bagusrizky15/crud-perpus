@@ -8,10 +8,11 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
-    <title>Data Mahasisa</title>
+    <title>Perpustakaan Amikom</title>
   </head>
   <body>
     <div class="container">
+    <h1>Data Buku Perpustakaan</h1>
     <a href="create.php" class="btn btn-success">Input Data</a>
     <table class="table">
   <thead>
